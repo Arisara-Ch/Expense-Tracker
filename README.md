@@ -1,8 +1,24 @@
-# React + Vite
+## Expense Tracker (React) ##
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##EN
+A simple expense tracker built with React that allows users to manage expenses by year, edit or delete transactions, and visualize data clearly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Filter expenses by year (2023-2025)
+- Edit or delete transactions
+- Track expense type (Income / Expense)
+- Choose payment type (Cash, Credit, Debit)
+- Checkbox to mark as completed
+
+## Demo
+
+![screenshot](./screenshot.png)
+
+## How to Run
+
+```bash
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+npm install
+npm start
