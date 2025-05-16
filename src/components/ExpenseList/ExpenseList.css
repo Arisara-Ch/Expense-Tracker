@@ -1,0 +1,13 @@
+.tdl-container {
+    width: 85%;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.not-found-text {
+    text-align: center;
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.1;
+}

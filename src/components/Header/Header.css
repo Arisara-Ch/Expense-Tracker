@@ -1,0 +1,26 @@
+.label-header {
+    color: #e09145;
+    text-align: start;
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-right: 10px;
+}
+
+.container-header {
+    color: #292c35;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.select-header {
+    color: #292c35;
+    border: #292c35;
+    background-color: #fcd9b8;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+}
