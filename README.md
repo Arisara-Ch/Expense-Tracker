@@ -1,22 +1,34 @@
-## Expense Tracker (React) ##
+# 💰 Personal Expense Tracker (React)  
+> **ระบบติดตามค่าใช้จ่ายส่วนตัว (สร้างด้วย React)**
 
-##EN
-A simple expense tracker built with React that allows users to manage expenses by year, edit or delete transactions, and visualize data clearly.
+A simple React app to manage personal expenses — filter by year, track income/expenses, edit and delete items easily.  
+แอปพลิเคชัน React สำหรับจัดการค่าใช้จ่ายส่วนตัว — กรองตามปี ติดตามรายรับ/รายจ่าย แก้ไขหรือลบได้สะดวก
 
-## Features
+---
 
-- Filter expenses by year (2023-2025)
-- Edit or delete transactions
-- Track expense type (Income / Expense)
-- Choose payment type (Cash, Credit, Debit)
-- Checkbox to mark as completed
+## 🌟 Features | ฟีเจอร์หลัก
 
-## Demo
+- 🔎 **Filter expenses by year (2023–2025)**  
+  🔎 กรองรายการตามปี (2023–2025)
+- 📝 **Edit or delete transactions**  
+  📝 แก้ไขหรือลบรายการได้
+- 💰 **Track income or expenses**  
+  💰 แสดงรายการเป็นรายรับหรือรายจ่าย
+- 💳 **Choose payment type: Cash / Credit / Debit**  
+  💳 เลือกวิธีชำระเงิน: เงินสด / เครดิต / เดบิต
+- ✅ **Checkbox to mark items as completed**  
+  ✅ มีช่องติ๊กสำหรับรายการที่เสร็จสิ้นแล้ว
 
+---
+
+## 🖼️ Screenshot | ตัวอย่างหน้าจอ
+
+> *(แนบภาพชื่อ `screenshot.png` ไว้ในโฟลเดอร์โปรเจกต์)*  
 ![screenshot](./screenshot.png)
 
-## How to Run
+---
 
+## 🚀 How to Run | วิธีใช้งาน
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
